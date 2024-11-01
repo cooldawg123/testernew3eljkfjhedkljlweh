@@ -1,4 +1,4 @@
-prtin("rewritten3")
+print("rewritten3")
 
 wait(0.1)
 
